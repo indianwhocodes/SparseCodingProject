@@ -1,0 +1,18 @@
+ total number of iterations: 389
+ number of outer loop 8
+ consumed time: 92.4376
+ the parameters :
+ transformType SIMILARITY
+ lambda 1 times sqrt(m)
+ stoppingDelta of outer loop 0.01
+ stoppingDelta of inner loop 1e-06
+ optimization in inner loop is using inexact ALM algorithm
+ total number of iterations: 389
+ number of outer loop 8
+ consumed time: 89.1434
+ the parameters :
+ transformType SIMILARITY
+ lambda 1 times sqrt(m)
+ stoppingDelta of outer loop 0.01
+ stoppingDelta of inner loop 1e-06
+ optimization in inner loop is using inexact ALM algorithm
